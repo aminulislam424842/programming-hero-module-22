@@ -1,0 +1,1 @@
+{"version":3,"file":"11-readonly-property.js","sourceRoot":"","sources":["../src/11-readonly-property.ts"],"names":[],"mappings":";;AAMA,MAAM,IAAI,GAAS;IACjB,EAAE,EAAE,CAAC,EAAE,IAAI,EAAE,QAAQ,EAAE,KAAK,EAAE,8BAA8B;CAC7D,CAAA;AACD,OAAO,CAAC,GAAG,CAAC,IAAI,CAAC,CAAC;AAElB,IAAI,CAAC,IAAI,GAAG,MAAM,CAAC;AACnB,OAAO,CAAC,GAAG,CAAC,IAAI,CAAC,CAAC;AAElB,eAAe;AACf,wDAAwD;AACxD,oBAAoB"}
