@@ -1,0 +1,1 @@
+{"version":3,"file":"06-generic-interface.js","sourceRoot":"","sources":["../src/06-generic-interface.ts"],"names":[],"mappings":";;AAIA,MAAM,gBAAgB,GAAsB;IAC1C,IAAI,EAAE,GAAG;CACV,CAAA;AAED,MAAM,eAAe,GAAsB;IACzC,IAAI,EAAE,MAAM;CACb,CAAA;AAED,OAAO,CAAC,GAAG,CAAC,gBAAgB,CAAC,CAAA;AAC7B,OAAO,CAAC,GAAG,CAAC,eAAe,CAAC,CAAA"}
